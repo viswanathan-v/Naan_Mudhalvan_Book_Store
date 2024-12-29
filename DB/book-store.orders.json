@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "67696d0274afb132b44ad18e"
+  },
+  "name": "Viswanathan V",
+  "email": "viswanathan.25it@licet.ac.in",
+  "address": {
+    "city": "chennai",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "zipcode": "600122"
+  },
+  "phone": 6380158264,
+  "productIds": [
+    {
+      "$oid": "67669976cf06029d5e9f1031"
+    },
+    {
+      "$oid": "66f04d2b8568a4e7c7938c0d"
+    },
+    {
+      "$oid": "66f04d2b8568a4e7c7938c1a"
+    }
+  ],
+  "totalPrice": 1300,
+  "createdAt": {
+    "$date": "2024-12-23T14:00:34.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-23T14:00:34.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676ec1b95c8fe1d013771473"
+  },
+  "name": "stanley A",
+  "email": "stanley.25it@licet.ac.in",
+  "address": {
+    "city": "Chennai",
+    "country": "India",
+    "state": "Tamil Nadu",
+    "zipcode": "600122"
+  },
+  "phone": 555555555,
+  "productIds": [
+    {
+      "$oid": "67669976cf06029d5e9f1031"
+    },
+    {
+      "$oid": "66f04d2b8568a4e7c7938c0d"
+    },
+    {
+      "$oid": "66f04d2b8568a4e7c7938c1a"
+    }
+  ],
+  "totalPrice": 1300,
+  "createdAt": {
+    "$date": "2024-12-27T15:03:21.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-27T15:03:21.249Z"
+  },
+  "__v": 0
+}]

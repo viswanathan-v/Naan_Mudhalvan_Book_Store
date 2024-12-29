@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "66f04d2b8568a4e7c7938c0d"
+  },
+  "title": "The First Days",
+  "description": "jordan ",
+  "category": "horror",
+  "trending": true,
+  "coverImage": "book-7.png",
+  "oldPrice": 100,
+  "newPrice": 50,
+  "updatedAt": {
+    "$date": "2024-11-16T08:00:35.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f04d2b8568a4e7c7938c1a"
+  },
+  "title": "Four Thousand Weeks",
+  "description": "Running",
+  "category": "business",
+  "trending": false,
+  "coverImage": "book-20.png",
+  "oldPrice": 60,
+  "newPrice": 50,
+  "updatedAt": {
+    "$date": "2024-12-13T05:06:30.491Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675bbc957b8778339e48ad08"
+  },
+  "title": "Atomic habit",
+  "description": "Tiny Changes  Make Big Impact",
+  "category": "business",
+  "trending": false,
+  "coverImage": "atomic Habit.webp",
+  "oldPrice": 20,
+  "newPrice": 15,
+  "createdAt": {
+    "$date": "2024-12-13T04:48:21.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-13T04:48:21.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675bbd017b8778339e48ad0b"
+  },
+  "title": "The Great Gatsby",
+  "description": "Horror Book",
+  "category": "horror",
+  "trending": false,
+  "coverImage": "800px-The_Great_Gatsby_Cover_1925_Retouched.jpg",
+  "oldPrice": 20,
+  "newPrice": 15,
+  "createdAt": {
+    "$date": "2024-12-13T04:50:09.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-13T04:51:27.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675bbdfe7b8778339e48ad1f"
+  },
+  "title": "The Psycology of Money",
+  "description": "How to make Money",
+  "category": "business",
+  "trending": false,
+  "coverImage": "atomic Habit.webp",
+  "oldPrice": 20,
+  "newPrice": 12,
+  "createdAt": {
+    "$date": "2024-12-13T04:54:22.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-13T04:54:22.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675bbe7f7b8778339e48ad29"
+  },
+  "title": "Knife",
+  "description": "Murder Book",
+  "category": "fiction",
+  "trending": false,
+  "coverImage": "knife.webp",
+  "oldPrice": 30,
+  "newPrice": 18,
+  "createdAt": {
+    "$date": "2024-12-13T04:56:31.590Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T17:25:37.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675bbf257b8778339e48ad32"
+  },
+  "title": "Running Home",
+  "description": "Adventure Book",
+  "category": "adventure",
+  "trending": false,
+  "coverImage": "best-outdoor-adventure-books.webp",
+  "oldPrice": 50,
+  "newPrice": 20,
+  "createdAt": {
+    "$date": "2024-12-13T04:59:17.219Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-13T04:59:17.219Z"
+  },
+  "__v": 0
+}]
