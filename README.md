@@ -42,7 +42,7 @@ JWT_SECRET_KEY = 'bc992a20cb6706f741433686be814e3df45e57ea1c2fc85f9dbb0ef7df1230
 
 Note: Please setup mongodb and change the MongoDB url and set your jwt secret key above.
 ```
-- Create the database named '' book-store '' with the collections '' users,books,orders '' 
+- Create the database named `` book-store `` with the collections `` users,books,orders `` 
 - Import the JSON documents into its respective collections.
   
 - Finally, to run the project, use ``npm run start:dev`` command.
